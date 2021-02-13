@@ -1,9 +1,13 @@
 # [ Misaki Bot Telegram](https://t.me/MisakiRobot)
 
 ### Telegram Channel + Group
-• [ Channel Game](https://t.me/CheaterVip) :V
-• [ Channel Anime + Game  ](https://t.me/AnimeCheat) :V
-• [ Chat Anime ](https://t.me/AnimeChating) :V
+• [ Channel Game](https://t.me/CheaterVip) 
+
+
+• [ Channel Anime + Game  ](https://t.me/AnimeCheat) 
+
+
+• [ Chat Anime ](https://t.me/AnimeChating) 
 
 ### Credits
 
