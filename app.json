@@ -1,7 +1,7 @@
 
 {
-  "name": "Miss Rose",
-  "logo": "https://telegra.ph/file/48522f7be29b993a19e60.jpg",
+  "name": "Misakirobot",
+  "logo": "https://telegra.ph/file/65506e8cac2397a26c2b8.png",
   "description": "Telegram's sassiest group manager. Modular Telegram group management bot!",
   "keywords": [
     "telegram",
@@ -10,7 +10,7 @@
     "manager",
     "3"
   ],
-  "repository": "hhttps://github.com/FayasKKD/Miss-Rose-Bot",
+  "repository": "hhttps://github.com/OnlyFaris/Misakirobot",
   "env": {
     "ENV": {
       "description": "Setting this to ANYTHING will enable env variables",
