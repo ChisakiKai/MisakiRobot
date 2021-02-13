@@ -1,4 +1,4 @@
-# [Miss Rose Bot](https://t.me/MissRose_bot)
+# [ Misaki Bot Telegram](https://t.me/MisakiRobot)
 
 ### Deploy
 
@@ -6,12 +6,10 @@
 
 ### Credits
 
-• [FayasKKD](https://github.com/FayasKKD/Bio) for this Repository 
+• [OnlyFaris](https://github.com/OnlyFaris) for this Repository 
 
-• [Paul Larsen](https://github.com/PaulSonOfLars) for his [tgbot](https://github.com/PaulSonOfLars/tgbot) Repository and [Miss Rose Bot](https://t.me/MissRose_bot)
-
-• [Dan Tes](https://github.com/delivrance) For his [Pyrogram](https://docs.pyrogram.org/) Library
+• [ Telegram ](https://t.me/OnlyFaris) :V
 
 ## Profile
 
-![Rose Profile](https://telegra.ph/file/718d48493d1fb11197d8b.jpg)
+![Misaki Bot Profile](https://telegra.ph/file/65506e8cac2397a26c2b8.png)
