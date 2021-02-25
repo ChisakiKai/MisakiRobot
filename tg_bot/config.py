@@ -12,7 +12,7 @@ class Config(object):
     LOGGER = True
 
     # REQUIRED
-    API_KEY = 1611706101:AAGcVY68vZ1tOlpImqxeC5Uc1e8DSTo4uKY
+    TOKEN = 1611706101:AAGcVY68vZ1tOlpImqxeC5Uc1e8DSTo4uKY
     OWNER_ID = 645739169
     OWNER_USERNAME = Anomaliii
 
