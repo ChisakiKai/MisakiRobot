@@ -1,4 +1,4 @@
-    TOKEN = 1611706101:AAEC7rpEziN6-KD0i0l-XtO5WXgdSi_gPuk
+    API_KEY = 1611706101:AAGcVY68vZ1tOlpImqxeC5Uc1e8DSTo4uKY
     OWNER_ID = 645739169
     OWNER_USERNAME = Anomaliii
     SQLALCHEMY_DATABASE_URI = postgres://dborkdtkbwdlqz:1905a53385ebac3d65a14d61e1a8daad24d55dd9d5e3e02cde707d90010e3c04@ec2-54-90-13-87.compute-1.amazonaws.com:5432/d1rigs84396ced
